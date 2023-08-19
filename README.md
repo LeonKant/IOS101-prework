@@ -28,6 +28,7 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+#### Favorite apps
 Discord
 - Clear UI design for the amount of features
 - Replying to individual messages in a group chat
@@ -45,7 +46,7 @@ TikTok
 - 'For you' page that shows content based on what you like
 - Sending friends videos you like
 
-# App idea
+#### App idea
 
 ## Notes
 
