@@ -47,10 +47,10 @@ TikTok
 - Sending friends videos you like
 
 #### App idea
-
+A card game like blackjack or poker where each player only sees their own cards on their device. Someone could start a game session to be the dealer and other players nearby (within a certain range) could join to be part of the table. This could be nice to explore the different APIs offered with iOS/apple devices.
 ## Notes
 
-Describe any challenges encountered while building the app.
+For me setting up Xcode gave me some issues since I have a beta version of MacOS 14. I also wasn't sure what the storyboard file in step 3 was but figured it out from the pre-work Slack.
 
 ## License
 
