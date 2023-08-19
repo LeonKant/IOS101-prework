@@ -28,7 +28,24 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+Discord
+- Clear UI design for the amount of features
+- Replying to individual messages in a group chat
+- Amount of customization options available for servers
 
+Cash App
+- Simple and clear interface for inputting amount to pay someone
+- No other unnecessary features to make using app difficult
+
+Spotify
+- Ability to queue songs/albums
+- Automatically generated daily mixes based on activity
+
+TikTok
+- 'For you' page that shows content based on what you like
+- Sending friends videos you like
+
+# App idea
 
 ## Notes
 
